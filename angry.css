@@ -115,13 +115,7 @@
   #footer{
     background-color: #152D35
   }
-  .footer_bio {
-    color: white;
-    font-style: bold
-    line-height: 3.5;
-    font-size: 100%;
-    margin: 32px 0 0 0;
-  }
+  
   
   .social_img {
     height: 35px;
@@ -134,6 +128,3 @@
     transition: width 2s height 2s;
   }
   
-  #pricing{
-    padding:  7% 15%
-  }
